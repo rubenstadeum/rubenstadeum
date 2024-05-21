@@ -27,3 +27,5 @@
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
+<a href="https://app.rocketseat.com.br/me/rubens-tadeu-08597"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=rubens-tadeu-08597&type=card" width="280" alt="Rubens Tadeu's Rocket ID"/></a>
